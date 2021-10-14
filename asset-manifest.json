@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cotizadorAutos/static/css/main.50a68ceb.chunk.css",
+    "main.js": "/cotizadorAutos/static/js/main.eba980dc.chunk.js",
+    "main.js.map": "/cotizadorAutos/static/js/main.eba980dc.chunk.js.map",
+    "runtime-main.js": "/cotizadorAutos/static/js/runtime-main.3a538fd2.js",
+    "runtime-main.js.map": "/cotizadorAutos/static/js/runtime-main.3a538fd2.js.map",
+    "static/js/2.7ef6c464.chunk.js": "/cotizadorAutos/static/js/2.7ef6c464.chunk.js",
+    "static/js/2.7ef6c464.chunk.js.map": "/cotizadorAutos/static/js/2.7ef6c464.chunk.js.map",
+    "static/js/3.61a8685a.chunk.js": "/cotizadorAutos/static/js/3.61a8685a.chunk.js",
+    "static/js/3.61a8685a.chunk.js.map": "/cotizadorAutos/static/js/3.61a8685a.chunk.js.map",
+    "index.html": "/cotizadorAutos/index.html",
+    "static/css/main.50a68ceb.chunk.css.map": "/cotizadorAutos/static/css/main.50a68ceb.chunk.css.map",
+    "static/js/2.7ef6c464.chunk.js.LICENSE.txt": "/cotizadorAutos/static/js/2.7ef6c464.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.51f1d2ed.png": "/cotizadorAutos/static/media/cryptomonedas.51f1d2ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a538fd2.js",
+    "static/js/2.7ef6c464.chunk.js",
+    "static/css/main.50a68ceb.chunk.css",
+    "static/js/main.eba980dc.chunk.js"
+  ]
+}
